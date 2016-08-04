@@ -1,0 +1,7 @@
+C:\dev\Mastermind\MastermindTests\bin\Debug\MastermindTests.dll
+C:\dev\Mastermind\MastermindTests\bin\Debug\MastermindTests.pdb
+C:\dev\Mastermind\MastermindTests\bin\Debug\Newtonsoft.Json.dll
+C:\dev\Mastermind\MastermindTests\bin\Debug\Newtonsoft.Json.xml
+C:\dev\Mastermind\MastermindTests\obj\Debug\MastermindTests.csprojResolveAssemblyReference.cache
+C:\dev\Mastermind\MastermindTests\obj\Debug\MastermindTests.dll
+C:\dev\Mastermind\MastermindTests\obj\Debug\MastermindTests.pdb

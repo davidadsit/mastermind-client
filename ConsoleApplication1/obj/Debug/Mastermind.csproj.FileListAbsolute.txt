@@ -1,0 +1,9 @@
+C:\dev\Mastermind\ConsoleApplication1\obj\Debug\Mastermind.csprojResolveAssemblyReference.cache
+C:\dev\Mastermind\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\dev\Mastermind\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\dev\Mastermind\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\dev\Mastermind\ConsoleApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\dev\Mastermind\ConsoleApplication1\bin\Debug\PS.Http.dll
+C:\dev\Mastermind\ConsoleApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\dev\Mastermind\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\dev\Mastermind\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
